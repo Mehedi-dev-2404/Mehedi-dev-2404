@@ -1,16 +1,61 @@
 ## Hi there 👋
 
-<!--
-**Mehedi-dev-2404/Mehedi-dev-2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile README -->
 
-Here are some ideas to get you started:
+<h1 align="center">👋 Hi, I'm Mehedi Mostafa Hafiz</h1>
+<h3 align="center">Computer Science Student @ University of Greenwich | Future Software Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Passionate about building technology 
+</p>
+
+---
+
+### 🚀 What I'm Working On
+- 🌐 Learning python
+- 🍃 Exploring AI & Cloud technologies  
+- 👨‍💻 Current focus: Building real portfolio projects + LeetCode
+- 🔍 Preparing for 2026 tech internships in the UK & EU
+
+---
+
+### 🧠 Skills (Growing Every Day)
+**Languages**
+- Python • Java
+
+**Technologies**
+- Git & GitHub • Linux 
+
+**Interest Areas**
+- AI & Automation
+- Cybersecurity & Networking
+- Smart Systems for Real-World Impact
+
+---
+
+### 📌 Featured Projects
+
+➡️ More coming — building weekly projects to level up!
+
+---
+
+### 📈 GitHub Stats
+
+➡️ More coming — building weekly projects to level up!
+---
+
+### 🌍 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- 📧 Email: mehedimostafahafiz@gmail.com
+- 📸 Instagram: @mehedicodes (Coding Journey)
+- 📝 Portfolio: Coming Soon…
+
+---
+
+### 💡 Quote I Live By
+> “Success isn’t an act — it’s a habit.”
+
+---
+
+Thanks for visiting 😄  
+⭐️ If you like what I’m building, follow my journey!
