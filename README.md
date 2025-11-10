@@ -45,9 +45,9 @@
 ---
 
 ### 🌍 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- 💼 LinkedIn: www.linkedin.com/in/mehedi-mostafa-717955339
 - 📧 Email: mehedimostafahafiz@gmail.com
-- 📸 Instagram: @mehedicodes (Coding Journey)
+- 📸 Instagram: [@mehedicodes](https://www.instagram.com/mehedi_codes?igsh=bnk2cWNnaHJ5eGty&utm_source=qr) (Coding Journey)
 - 📝 Portfolio: Coming Soon…
 
 ---
