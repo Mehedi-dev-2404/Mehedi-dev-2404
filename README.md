@@ -53,7 +53,7 @@
 ---
 
 ### 💡 Quote I Live By
-> “Success isn’t an act — it’s a habit.”
+> “Living not existing”
 
 ---
 
