@@ -3,7 +3,7 @@
 <!-- Profile README -->
 
 <h1 align="center"> Hi, I'm Mehedi Mostafa Hafiz</h1>
-<h3 align="center">Computer Science Student @ University of Greenwich | Future Software Engineer</h3>
+<h3 align="center">Computer Science Student @ University of Greenwich | Software Engineer</h3>
 
 <p align="center">
   Passionate about building technology 
