@@ -10,13 +10,17 @@
 </p>
 
 ---
-
+### About Me
+	•	Computer Science undergraduate with a strong focus on backend systems and Python
+	•	Interested in building real-world, production-style projects
+	•	Actively preparing for 2026 Software Engineering internships in the UK & EU
+	•	Long-term goal: work on impactful systems at scale
+---
 ### What I'm Working On
-- Building insane python projects
-- Exploring AI & Cloud technologies  
-- Current focus: Building real portfolio projects + LeetCode
-- Preparing for 2026 tech internships in the UK & EU
-
+	•	Building portfolio-grade Python projects (monitoring tools, system utilities, automation)
+	•	Strengthening problem-solving skills through data structures & algorithms
+	•	Exploring AI, cloud fundamentals, and system design
+	•	Consistent LeetCode practice alongside projects
 ---
 
 ### Skills (Growing Every Day)
@@ -24,9 +28,14 @@
 - Python • Java
 
 **Technologies**
-- Git & GitHub • Linux 
+	•	Git & GitHub
+	•	Linux
+	•	Command Line
+	•	JSON-based data storage
 
 **Interest Areas**
+-	Backend Engineering
+-	Monitoring & Reliability Systems
 - AI & Automation
 - Cybersecurity & Networking
 - Smart Systems for Real-World Impact
@@ -34,9 +43,9 @@
 ---
 
 ### Featured Projects
-
-More coming — building weekly projects to level up!
-
+	•	Pulse Watch — CLI-based service health monitoring tool
+Tracks uptime, response time, failure states, and logs service history using Python
+(More projects coming — building consistently)
 ---
 
 ### GitHub Stats
