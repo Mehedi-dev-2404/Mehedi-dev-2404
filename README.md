@@ -12,7 +12,7 @@
 ---
 
 ### What I'm Working On
-- Learning python
+- Building insane python projects
 - Exploring AI & Cloud technologies  
 - Current focus: Building real portfolio projects + LeetCode
 - Preparing for 2026 tech internships in the UK & EU
