@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there
 
 <!-- Profile README -->
 
-<h1 align="center">👋 Hi, I'm Mehedi Mostafa Hafiz</h1>
+<h1 align="center"> Hi, I'm Mehedi Mostafa Hafiz</h1>
 <h3 align="center">Computer Science Student @ University of Greenwich | Future Software Engineer</h3>
 
 <p align="center">
@@ -11,15 +11,15 @@
 
 ---
 
-### 🚀 What I'm Working On
-- 🌐 Learning python
-- 🍃 Exploring AI & Cloud technologies  
-- 👨‍💻 Current focus: Building real portfolio projects + LeetCode
-- 🔍 Preparing for 2026 tech internships in the UK & EU
+### What I'm Working On
+- Learning python
+- Exploring AI & Cloud technologies  
+- Current focus: Building real portfolio projects + LeetCode
+- Preparing for 2026 tech internships in the UK & EU
 
 ---
 
-### 🧠 Skills (Growing Every Day)
+### Skills (Growing Every Day)
 **Languages**
 - Python • Java
 
@@ -33,29 +33,29 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-➡️ More coming — building weekly projects to level up!
-
----
-
-### 📈 GitHub Stats
-
-➡️ More coming — building weekly projects to level up!
----
-
-### 🌍 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/mehedi-mostafa-717955339
-- 📧 Email: mehedimostafahafiz@gmail.com
-- 📸 Instagram: [@mehedicodes](https://www.instagram.com/mehedi_codes?igsh=bnk2cWNnaHJ5eGty&utm_source=qr) (Coding Journey)
-- 📝 Portfolio: Coming Soon…
+More coming — building weekly projects to level up!
 
 ---
 
-### 💡 Quote I Live By
+### GitHub Stats
+
+More coming — building weekly projects to level up!
+---
+
+### Connect With Me
+- LinkedIn: www.linkedin.com/in/mehedi-mostafa-717955339
+- Email: mehedimostafahafiz@gmail.com
+- Instagram: [@mehedicodes](https://www.instagram.com/mehedi_codes?igsh=bnk2cWNnaHJ5eGty&utm_source=qr) (Coding Journey)
+- Portfolio: Coming Soon…
+
+---
+
+### Quote I Live By
 > “Living not existing”
 
 ---
 
-Thanks for visiting 😄  
-⭐️ If you like what I’m building, follow my journey!
+Thanks for visiting
+If you like what I’m building, follow my journey!
