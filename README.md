@@ -64,7 +64,7 @@ mehedi = MehediMostafa()
 <div align="center">
 
 ### Languages & Core
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,sql,bash,git,github" alt="Languages & Core" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,bash,git,github" alt="Languages & Core" /></a>
 
 ### Tools & Platforms
 <a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws" alt="Tools" /></a>
@@ -149,16 +149,6 @@ Professional Impact:
 <br>
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-  <br><br>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF"/>
-</div>
-
-<br>
 
 ---
 
