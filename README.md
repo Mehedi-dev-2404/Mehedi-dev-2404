@@ -2,20 +2,19 @@
 
 <!-- Striking Name Header with Gradient Effect -->
 <h1>
-  Hi, I'm <span style="background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mehedi Mostafa Hafiz!</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <span style="background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mehedi Mostafa Hafiz</span>
 </h1>
 
 <!-- Animated Role Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern;Python+Specialist;Hackathon+Winner+%F0%9F%8F%86;AI+%26+Backend+Systems+Developer;Building+Smart+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+%26+Java+Developer;Google+Hackathon+Winner;CLI+%26+Backend+Systems+Builder;Open+to+2026+Internships" alt="Typing Animation" />
 </p>
 
 <!-- Custom Badge Line -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Algorithmic_Scheduling-667eea?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Specialty-Cloud_Native_Python-764ba2?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Internships-f093fb?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-CLI_Tools_%26_APIs-667eea?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Learning-AWS_%26_Cloud-764ba2?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Seeking_2026_Internships-f093fb?style=flat-square&labelColor=000000" />
 </p>
 
 <br>
@@ -28,8 +27,6 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ```python
 class MehediMostafa:
     def __init__(self):
@@ -41,26 +38,24 @@ class MehediMostafa:
 
     def get_achievements(self):
         return [
-            "🏆 Winner - Google 'Build with AI' Hackathon 2025",
-            "🥈 2nd Place - MAAGlobal Hackathon",
-            "🎯 Finalist - SCAI International AI Hackathon"
+            "Winner - Google 'Build with AI' Hackathon 2025",
+            "2nd Place - MAAGlobal Hackathon",
+            "Finalist - SCAI International AI Hackathon"
         ]
 
     def get_current_focus(self):
         return [
-            "Algorithmic Scheduling & Task Optimization",
-            "Cloud-Native Python Development",
-            "Production-Grade Backend Systems",
-            "Data Structures & Competitive Programming"
+            "AI & Machine Learning coursework",
+            "Data Structures & Algorithms practice",
+            "Building CLI tools and API-driven apps",
+            "AWS Cloud & Backend Systems"
         ]
 
     def get_ambition(self):
-        return "Building impactful systems that scale! 🚀"
+        return "Building impactful systems that scale."
 
 mehedi = MehediMostafa()
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -68,14 +63,11 @@ mehedi = MehediMostafa()
 
 <div align="center">
 
-### Languages
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,sql,bash,html,css" alt="Languages" /></a>
-
-### Backend & Cloud
-<a href="#"><img src="https://skillicons.dev/icons?i=flask,django,fastapi,mysql,postgresql,mongodb,redis" alt="Backend" /></a>
+### Languages & Core
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,sql,bash,git,github" alt="Languages & Core" /></a>
 
 ### Tools & Platforms
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,qt" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws" alt="Tools" /></a>
 
 </div>
 
@@ -95,18 +87,16 @@ mehedi = MehediMostafa()
 
 ```yaml
 Development:
-  - REST API Design & Integration
+  - Object-Oriented Programming (Python, Java)
   - Data Structures & Algorithms
-  - CLI Tool Development
-  - Database Management (SQL)
-  - System Monitoring & Health Checks
+  - REST APIs & JSON
+  - CLI Application Development
+  - SQL Database Management
 
-Core Competencies:
-  - Python (Advanced)
-  - Java (Intermediate)
-  - Object-Oriented Programming
-  - Version Control (Git/GitHub)
-  - Linux System Administration
+Tools & Systems:
+  - Git & GitHub
+  - Linux
+  - AWS (in progress)
 ```
 
 </td>
@@ -116,21 +106,21 @@ Core Competencies:
 
 ```yaml
 Problem Solving:
-  - Algorithmic Thinking
-  - Debugging & Optimization
-  - Technical Documentation
-  - Code Review & Refactoring
+  - Rapid debugging (cross-platform issues)
+  - Root cause analysis
+  - Edge case handling
+  - System optimization
 
-Collaboration:
-  - Team-Based Development
-  - Agile Workflows
-  - Cross-Functional Communication
-  - Workflow Optimization
+Communication & Collaboration:
+  - Stakeholder communication
+  - Team hackathon collaboration
+  - Technical documentation
+  - Student ambassador outreach
 
-Leadership:
-  - Process Improvement (30% efficiency)
-  - Transaction Tracking (SAR 1M+)
-  - Project Management
+Professional Impact:
+  - Workflow optimization (30% improvement)
+  - Financial tracking (SAR 1M+)
+  - Customer-facing operations
 ```
 
 </td>
@@ -149,10 +139,10 @@ Leadership:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🧠 **BrainBox** | CLI-based spaced repetition tool using Leitner Algorithm for optimized learning | Python, JSON Storage |
-| ⏱️ **Momentum** | Intelligent task scheduling system with priority management and deadline tracking | Python, Data Structures |
-| 🌤️ **Weather Dashboard** | Real-time weather monitoring application with interactive GUI | Python, PyQt5, REST APIs |
-| 💓 **Pulse Watch** | Service health monitoring tool tracking uptime, response time, and failure states | Python, CLI, System Design |
+| **BrainBox** | CLI spaced repetition system implementing Leitner algorithm with persistent JSON storage | Python, JSON |
+| **Momentum** | CLI task scheduling engine with priority scoring and constraint resolution logic | Python, OOP |
+| **Weather Dashboard** | Desktop app consuming OpenWeather API with real-time data and error handling | Python, PyQt5, REST API |
+| **Pulse Watch** | Data-processing tool for time-series analysis with aggregation and trend insights | Python, CLI |
 
 </div>
 
@@ -172,23 +162,40 @@ Leadership:
 
 ---
 
-## Professional Experience
+## Certifications & Training
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **What I've Done:**
+<div align="center">
 
-- **Guest Reservation Assistant** – Optimized operational workflows, achieving 30% efficiency improvement
-- **Finance Assistant** – Managed and tracked SAR 1M+ in financial transactions with precision
-- **Hackathon Competitor** – Consistently delivered winning solutions under tight deadlines
+| Certification | Year | Provider |
+|---------------|------|----------|
+| AWS Essential Training for Developers | 2025 | AWS |
+| Introduction to GitHub | 2025 | GitHub |
+| Introduction to SQL | 2026 | - |
+
+</div>
 
 <br>
 
 ---
 
-## Let's Connect & Collaborate
+## Professional Experience
+
+**Experience:**
+
+- **Student Ambassador** @ The Grad Job Club (Feb 2026 – Present) – Supporting student engagement with career development programmes and industry initiatives
+- **Guest Reservation Assistant** @ Hofin Stays, London (Jun 2024 – Jun 2025) – Optimized operational workflows, achieving 30% reduction in repeat errors
+- **Finance & Operations Assistant** @ Family Trading Business, Saudi Arabia (Jun 2022 – Present) – Managed SAR 1M+ in transactions, supplier negotiations, and compliance
+- **Hackathon Competitor** – Winner (Google Build with AI 2025), 2nd Place (MAAGlobal), Finalist (SCAI International)
+
+<br>
+
+---
+
+## Contact
 
 <div align="center">
 
-### Reach Out
+### Professional Links
 
 <a href="mailto:mehedimostafahafiz@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -205,14 +212,14 @@ Leadership:
 
 <br>
 
-### Open to Discuss
+### Technical Interests
 
-<img src="https://img.shields.io/badge/-Backend_Engineering-667eea?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-AI_Development-764ba2?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-System_Design-f093fb?style=flat-square&logo=architecture&logoColor=white" />
-<img src="https://img.shields.io/badge/-Internship_Opportunities-FFD93D?style=flat-square&logo=handshake&logoColor=black" />
-<img src="https://img.shields.io/badge/-Algorithm_Optimization-A8DADC?style=flat-square&logo=algorithm&logoColor=black" />
-<img src="https://img.shields.io/badge/-Cloud_Computing-6BCF7F?style=flat-square&logo=amazonaws&logoColor=black" />
+<img src="https://img.shields.io/badge/-Python_Development-667eea?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-CLI_Tools-764ba2?style=flat-square&logo=terminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-REST_APIs-f093fb?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-2026_Internships-FFD93D?style=flat-square&logo=briefcase&logoColor=black" />
+<img src="https://img.shields.io/badge/-Hackathons-A8DADC?style=flat-square&logo=trophy&logoColor=black" />
+<img src="https://img.shields.io/badge/-AWS_Cloud-6BCF7F?style=flat-square&logo=amazonaws&logoColor=black" />
 
 </div>
 
@@ -220,22 +227,9 @@ Leadership:
 
 ---
 
-<!-- Quote Section -->
 <div align="center">
-
-### Philosophy
-
-> *"Living not existing – building technology that matters,*
-> *one algorithm at a time, one system at scale."*
-
-<br>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-
-<br>
-
-<!-- Animated Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
