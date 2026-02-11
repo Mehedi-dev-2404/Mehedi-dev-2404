@@ -159,9 +159,6 @@ Professional Impact:
 | Certification | Year | Provider |
 |---------------|------|----------|
 | AWS Essential Training for Developers | 2025 | AWS |
-| Introduction to GitHub | 2025 | GitHub |
-| Introduction to SQL | 2026 | - |
-
 </div>
 
 <br>
