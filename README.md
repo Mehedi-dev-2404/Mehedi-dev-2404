@@ -135,19 +135,6 @@ Data-processing tool for time-series analysis with aggregation and trend insight
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
