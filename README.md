@@ -2,11 +2,11 @@
 
 <h1>Mehedi Mostafa Hafiz</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+SWE+Intern+%40+OoNt;Google+Hackathon+Winner;CS+%40+University+of+Greenwich;Building+Systems+That+Scale" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Agentic+AI+Automation+Engineer;Google+Hackathon+Winner;CS+%40+University+of+Greenwich;Building+Systems+That+Scale" alt="Typing Animation" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SWE_Intern-OoNt-58A6FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Agentic_AI_Engineer-Omnicodes-58A6FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/CS-University_of_Greenwich_'28-58A6FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Based_in-London,_UK-58A6FF?style=flat-square&labelColor=0D1117" />
 
@@ -16,21 +16,21 @@
 
 ## About Me
 
-Winner of the Google "Build with AI" Hackathon 2025 and 1st place at HackLondon MLH. Currently a Junior Software Engineer Intern at OoNt, shipping across the full product stack — Firebase, Figma, Apple/Google Developer Console, and the entire GitHub codebase.
-
-CS student at the University of Greenwich (Class of 2028). I build CLI tools, API-driven applications, and AI-powered systems. Focused on shipping things that work, not just things that compile.
+Winner of the Google "Build with AI" Hackathon and 1st place at HackLondon MLH. Completed a backend internship at OoNt (Feb–May 2026). Currently an Agentic AI Automation Engineer at Omnicodes and Assistosphere, building production AI systems. Founder of ALPHABETA. CS student at the University of Greenwich (Class of 2028).
 
 ---
 
 ## Timeline
 
-- **Feb 2026** -- Junior Software Engineer Intern @ OoNt
+- **May 2026** -- Agentic AI Automation Engineer @ Omnicodes
+- **Apr 2026** -- Agentic AI Automation Engineer @ Assistosphere
+- **Feb–May 2026** -- Backend Engineering Intern @ OoNt
 - **Feb 2026** -- Student Ambassador @ The Grad Job Club
-- **2026** -- Technical Staff @ Mistral AI Global Hackathon (London)
+- **2026** -- Founder @ ALPHABETA
+- **2026** -- Technical Staff @ Mistral AI Global Hackathon
 - **2025** -- 1st Place -- Google "Build with AI" Hackathon
-- **2025** -- 1st Place -- HackLondon MLH Hackathon (Beacon)
-- **2025** -- Participant -- UCL CSRI Hackathon
-- **2025** -- 2nd Place -- MAAGlobal Hackathon
+- **2025** -- AuditAI -- Cursor x Briefcase Hackathon
+- **2025** -- Google ADC Hackathon @ Google HQ London
 - **2025** -- Finalist -- SCAI International AI Hackathon
 - **2023** -- Founded school student council campaign (100k+ views)
 
@@ -46,7 +46,7 @@ CS student at the University of Greenwich (Class of 2028). I build CLI tools, AP
 
 **Tools & Platforms**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws,firebase,figma,mongodb" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws,firebase,nestjs,fastapi,docker,postgres" /></a>
 <br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
@@ -61,49 +61,32 @@ CS student at the University of Greenwich (Class of 2028). I build CLI tools, AP
 <tr>
 <td width="50%" valign="top">
 
-**Beacon**<br>
-Student intelligence dashboard reducing decision fatigue by aggregating deadlines, hackathons and jobs.<br>
-<sub><code>Gemini</code> <code>ElevenLabs</code> <code>MongoDB</code></sub><br>
-<sub>Built at HackLondon MLH -- 1st Place</sub>
+**LockedIn**<br>
+AI-powered job application assistant that automates outreach, tracks applications, and generates tailored cover letters.<br>
+<sub><code>Python</code> <code>AI</code> <code>Automation</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
-**UCL Housing AI Tool**<br>
-AI prediction engine for first-time buyers using 5,000+ Camden housing records with automated crime, utilities and ROI reports.<br>
-<sub><code>Python</code> <code>AI</code></sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**BrainBox**<br>
-CLI spaced repetition system implementing the Leitner algorithm with persistent JSON storage.<br>
-<sub><code>Python</code> <code>JSON</code></sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Momentum**<br>
-CLI task scheduling engine with priority scoring and constraint resolution logic.<br>
-<sub><code>Python</code> <code>OOP</code></sub>
+**Prospekt**<br>
+Agentic lead generation and outreach system that autonomously identifies, qualifies, and contacts prospects at scale.<br>
+<sub><code>Python</code> <code>Agents</code> <code>FastAPI</code></sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Weather Dashboard**<br>
-Desktop app consuming OpenWeather API with real-time data and error handling.<br>
-<sub><code>Python</code> <code>PyQt5</code> <code>REST API</code></sub>
+**Assistosphere Agent**<br>
+Production agentic AI system handling multi-step workflows and task orchestration for business automation.<br>
+<sub><code>Python</code> <code>LLM</code> <code>NestJS</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Pulse Watch**<br>
-Data-processing tool for time-series analysis with aggregation and trend insights.<br>
-<sub><code>Python</code> <code>CLI</code></sub>
+**Clearance**<br>
+Automated compliance and document clearance pipeline that processes, validates, and routes submissions.<br>
+<sub><code>Python</code> <code>Postgres</code> <code>Docker</code></sub>
 
 </td>
 </tr>
@@ -114,8 +97,9 @@ Data-processing tool for time-series analysis with aggregation and trend insight
 
 ## Experience
 
-- **Junior Software Engineer Intern** @ OoNt (Feb 2026 -- Present) -- Daily standups, working across Slack, Jira, Firebase, Figma, Apple/Google Developer Console and the full GitHub codebase
-- **Technical Staff** @ Mistral AI Global Hackathon via Iterate -- Supported 20+ teams technically across a weekend-long AI hackathon in London
+- **Agentic AI Automation Engineer** @ Omnicodes (May 2026 -- Present) -- Building production agentic AI systems and automation pipelines
+- **Agentic AI Automation Engineer** @ Assistosphere (Apr 2026 -- Present) -- Developing multi-step AI agent workflows for business automation
+- **Backend Engineering Intern** @ OoNt (Feb -- May 2026) -- Built NestJS input validation and request pipelines, led Firestore schema migration, wrote Jest unit and integration tests
 - **Student Ambassador** @ The Grad Job Club (Feb 2026 -- Present) -- Supporting student engagement with career development programmes
 - **Finance & Operations Assistant** @ Family Trading Business, Saudi Arabia (Jun 2022 -- Present) -- Managed SAR 1M+ in transactions, supplier negotiations, and compliance
 
